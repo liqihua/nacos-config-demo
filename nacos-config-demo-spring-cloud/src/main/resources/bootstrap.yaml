@@ -11,4 +11,5 @@ spring:
   profiles:
     active: dev # 可选
 
+#以上配置，在 nacos 管理平台中，创建的配置文件的 dataId 为 example-dev.properties
 #关于dataId：https://nacos.io/zh-cn/docs/quick-start-spring-cloud.html
